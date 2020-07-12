@@ -1,0 +1,32 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is BE13-D508
+
+ Directory of c:\Temp\AWS Docs
+
+07/12/2020  01:57 PM    <DIR>          .
+07/12/2020  01:57 PM    <DIR>          ..
+06/23/2020  01:33 PM            64,671 AWS AutoScaling FAQ.docx
+06/23/2020  01:30 PM            21,982 AWS Cloud Formation FAQ.docx
+06/23/2020  01:36 PM            22,416 AWS Cloud trail FAQ.docx
+06/23/2020  10:42 PM            32,143 AWS Cloud Watch FAQ.docx
+06/23/2020  10:30 PM            21,022 AWS EC2 Auto Scaling FAQ.docx
+06/23/2020  01:53 PM            94,020 AWS EC2 FAQ.docx
+06/23/2020  01:45 PM            39,481 AWS IAM FAQ.docx
+06/23/2020  01:40 PM            28,845 AWS KMS FAQ.docx
+06/23/2020  01:21 PM            34,106 AWS Lambda FAQ.docx
+06/23/2020  08:02 PM           181,475 AWS Load Balancer FAQ.docx
+06/23/2020  01:56 PM            41,195 AWS Route 53 FAQ.docx
+06/23/2020  01:46 PM            42,231 AWS SNS FAQ.docx
+06/23/2020  01:47 PM            29,511 AWS SQS FAQ.docx
+07/12/2020  01:55 PM    <DIR>          AWS-Notes
+07/12/2020  01:40 PM               182 AWS.txt
+06/24/2020  07:52 AM             2,153 int.txt
+05/13/2020  01:02 PM         1,225,094 Kubernetes Interview Questions.docx
+05/13/2020  12:39 PM            32,445 Kubernetes.docx
+07/04/2020  11:47 AM           175,190 Linuc Ntw codes.docx
+06/23/2020  12:52 PM            13,769 roles.txt
+07/12/2020  01:57 PM                 0 test1.txt
+05/06/2020  12:48 PM            31,058 Vish Resume (1).docx
+06/23/2020  05:54 PM            39,642 VISHNU AWS N.docx
+              22 File(s)      2,172,631 bytes
+               3 Dir(s)  122,392,788,992 bytes free
