@@ -1,0 +1,76 @@
+1- Explain the three basic types of cloud services and the AWS products that are built based on them?
+
+Computing- EC2, Elastic Beanstalk, Lambda, Auto-Scaling
+Storage- S3, Glacier, Elastic Block Storage, Elastic File System
+Networking- VPC, Amazon CloudFront, Route53
+2- How do you upgrade or downgrade a system with near-zero downtime?
+
+Open EC2 console
+Choose Operating System AMI
+Launch an instance with the new instance type
+Install all the updates
+Install applications
+Test the instance to see if it’s working
+If working, deploy the new instance and replace the older instance
+Once it’s deployed, you can upgrade or downgrade the system with near-zero downtime.
+3- What are the native AWS Security logging capabilities?
+
+AWS CloudTrail
+
+AWS Config
+
+4- What is a DDoS attack, and what services can minimize them?
+
+AWS Shield
+AWS WAF
+Amazon Route53
+Amazon CloudFront
+ELB
+VPC
+
+5- What are the different types of virtualization in AWS, and what are the differences between them?
+Hardware Virtual Machine (HVM)
+
+Paravirtualization (PV)
+
+Paravirtualization on HVM 
+
+6- Name some of the AWS services that are not region-specific!!
+
+IAM
+Route 53
+Web Application Firewall 
+CloudFront
+S3
+
+7- What are the different types of EC2 instances based on their costs?
+On-demand Instance
+
+Spot Instance
+
+Reserved Instance
+
+8- What are the common types of AMI designs?
+
+Fully Baked AMI
+JeOS AMI (just enough operating system)
+Hybrid AMI
+https://aws.amazon.com/answers/config...
+
+9- How can you recover/login to an EC2 instance for which you have lost the key?
+
+Detach the root volume for the instance
+
+Attach the volume to a temporary instance (Prefer same version of OS)
+Modify the configuration file
+Attach volume to origianal Instance
+Restart the original instance
+
+
+10- What are the security features in AWS VPC?
+Security groups
+Network access control lists
+Flow logs
+11- How can you add an existing instance to a new Auto Scaling group?
+
+Login to EC2 Console ..Select Instance ...Actions  Instance Settings Attach to AutoScaling Group .. Attach to existing AutoScalingGroup or Create new.

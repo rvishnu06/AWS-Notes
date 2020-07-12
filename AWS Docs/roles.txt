@@ -1,0 +1,262 @@
+Resolving the issues related to iBus servers and services.
+Involved in setting up and managing backup and recovery using snapshots.
+Creating AMI images of EC2 instances as backup.
+Proficient with knowledge of EBS; in setting up and attaching EBS volumes to EC2instances.
+Possess good and handy knowledge on VPC and its components.
+Configuration of Auto Scaling and Load Balancers; if required for specified tenant.
+Possess knowledge and hands on S3 and RDS creation and lifecycle management.
+Used CloudWatch to create alarms and CloudWatch Logs
+Integrated CW with EC2 instances for monitoring log files and track metrics 
+Sound knowledge on the architecture and components of Kubernetes
+Analyzing logs on Kibana and troubleshooting was a part of day to day activity
+
+
+Monitoring of Linux servers on various issues related to disk issues, CPU, memory, process, etc. 
+Experience in managing LVMs for disk management on CRQ request. 
+Resolving issue in Database by checking the ORA Errors in DB nodes and table space issue by adding data files to the table space. 
+Maintaining SLA to close the incident as per company process.
+Extract reports and providing RCA for problem related tickets.
+Joining bridge calls in incident issues to fix the problem. 
+Troubleshooting Swap space management & CPU issue. 
+Escalate issue on timely manner and engage required on-call resource.
+Communicating with other team members for efficient workflow. 
+Assist team members on technical issue and provide training to new hires. 
+
+	
+	Analysing logs of iBus servers and fixing the issues based on priority.
+	Creation of EC2 instance for iBus servers. 
+	Create snapshot for the EC2 instance. 
+	Working on SR/tickets to the respective teams and follow up the tickets for faster resolution. 
+	Create and configure S3 bucket. 
+	Create alarms and notifications for EC2 hosts using CloudWatch. 
+	Monitoring EC2 Instances using Cloud Watch, CEM tool. 
+	Maintaining SLA to close the incident as per company process.
+	Extract reports and providing RCA for problem related tickets.
+	Communicate with other team member to fix the issue.
+	Provide technical assist to team members.   
+	Communicate with Client on calls and PO for the issues logged. 
+	Join bridge calls in incident issues to fix the problem. 
+
+
+
+
+Roles and Responsibilities:
+•	Creation of EC2 Servers for iBus servers.
+•	Resolving the issues related to iBus servers and services.
+•	Migrating infrastructure from Microsoft Windows to Enterprise Linux.
+•	Monitoring more than 700+ iBus servers.
+•	Analysing logs of iBus servers and fixing the issues based on priority.
+•	Attaching various IAM Roles and Security Groups.
+•	Creating users in AWS console and grant permission.
+•	Monitoring Launched Instances using Cloud Watch.
+•	Add S3 storage to EC2 instance 
+•	Create and configure S3 bucket with restricted policies. 
+•       Created alarms and notifications for EC2 hosts using CloudWatch. 
+•	Auto-Scaling in launching EC2. 
+•	Assign elastic IP’s to EC2. 
+.       Create Notification from SNS
+.       Create EFS 
+.      	Configure DNS records with Route53 services 
+.       Hands on aws CLI.. 
+
+Cloud Platform (AWS, Azure, Google Cloud Platform)
+Linux
+DB (Mysql/Psql/Maria/Mongo)
+Docker 100
+Web Server (Apache/Ngnix/Tomcat)
+Bash/Perl/Python
+Nagios (Or Any Monitoring Tool)
+GIT 
+Jenkins / Plugins
+Ansible /Chef/ Puppet
+ELK (ElasticSearch, Logstash & Kibana)
+
+
+
+
+Compute EC2, Lambda, Batch
+Web Beanstalk, LightScale
+Storage S3, Glacier, EBS, EFS
+Networking - VPC, Load Balancer, Direct-connect, Route53, VPN. 
+Database RDS
+Security & Management IAM, MFA, Automation, Cloud Formation Templates, CloudTrail
+Hybrid AWS Directory Services, AWS Backup
+AWS Portals AWS Console, Cloud Formation templates, CloudWatch
+Knowledge of AWS CLI scripting language
+4. 2-3 years of experience with Linux operating systems.
+
+
+Working Knowledge on any of the following tools/technologies:
+AWS
+Terraform
+Ansible
+Linux system administration
+Networking
+
+At least 5 years of working experience on Linux infrastructure.
+At least 3 years of working on Web/ Middle layer
+1 year experience working with authentication and authorization solutions.
+Experience with CA Single Sign-On (SiteMinder) (optional)
+Experience with PingFederate (optional)
+CISSP, AWS Certified SysOps Administrator, Certified DevOps Engineer, Azure Administrator Associate or similar certifications (optional).
+
+
+Bachelors or Masters degree in relevant area.
+Public cloud platform knowledge, especially AWS
+Experience with Linux/Windows system administration or backend development.
+An understanding of on-premises technologies as as Active Directory and ADFS.
+Experience with Infrastructure as a Code (Terraform) and large-scale application deployment and management.
+Basic DevOps knowledge (AWS, unix environment, bash, docker, git and Python)
+Knowledge of configuration management systems (one of Ansible, Chef, Puppet, or similar) and container technologies (e.g. Kubernetes, Mesosphere, Docker Swarm).
+Experience or strong interest in IoT/sensor-to-cloud and experience with continuous integration/continuous deployment environments.
+A curious, self-driven personality, who thrive working with complicated problem solving, and is good at building up new competences in an independent and motivated manner.
+Excellent English oral and written communication skills.
+
+
+
+Experience in Linux Administration in production environments.
+Strong understanding of current network protocols, architecture, and design.
+Experience with Containerization tools like Docker, Docker Swarn, Kubernetes.
+Experience with Infrastructure/configuration management using Terraform, Ansible, Puppet, Chef or an equivalent is a plus.
+Experience with Google Cloud or Amazon Web Services and management of cluster and deployments on a very large scale.
+Experience with various monitoring tools and concepts.
+Experience with SQL and MySQL. NoSQL experience is a plus.
+Knowledge of scripting languages like Perl, Bash, Python etc.
+Knowledge of best practices and IT operations.
+Excellent verbal and written communication skills.
+
+
+?Strong hands-on experience any AWS technologies â?? EC2, RDS, EFS, Elastic Bean Stalk, VPCs, Security Groups, NACLS, CloudFront, CloudWatch, ACM, Route53, RedShift, 
+RDS, ECS, SNS, IAM, Load Balancers, Target Groups, Auto Scaling, AMI, Lambda
+
+
+Lift and shift of Siemens healthcare applications in AWS Cloud
+Hardware and IT Infrastructure Knowledge
+Virtualization knowledge ( VMware, Hyper-V Docker)
+Troubleshooting on Windows and Linux Operating systems
+Performance monitoring
+
+
+Three plus years of work experience with hands-on technical experience and system designs.
+Three plus years in IPsec, VPN, Load Balancing, Iperf, SSH, Network Monitoring / Troubleshooting tools.
+Three plus years in administration of enterprise grade Operating Systems (Windows, Linux/Unix distributions), specifically with regards to system builds, configurations, and troubleshooting.
+Working knowledge of automation tools such as Ansible, Chef, Terraform, AWS CloudFormation.
+Experienced in implementing security features such as LDAP, ADFS, SSL.
+Experienced provisioning, operating, and implementing cloud base solutions.
+Able to work in a team-oriented and collaborative environment.
+Able to lead projects in a small team.
+Experience developing code in at least one high-level programming language to support Infrastructure as a code such as Python, JSON, and Javascript.
+Understanding of cloud computing technologies, business drivers, and emerging computing trends.
+B.S. in Computer Science or equivalent work experience (preferred)
+Achieved cloud certifications such as AWS Certified Developer, SysOps, and Solution Architect (preferred).
+Must have experience in running Infrastructure services in Azure Cloud.
+
+
+Responsibilities & Requirements
+
+Real world experience managing large scale, enterprise level cloud environments using, Microsoft Azure, Kubernetes, Google Cloud Platform Cloud. Certification in any a plus.
+2+ years of experience in managing public cloud-based infrastructure (AZURE, AWS, GCP, Kubernetes)
+3+ years of experience with running and/or managing large infrastructure services with multiple availability regions
+ability to explain and guide clients around technical constraints
+Public Cloud (Azure, GCP, AWS) Certifications Professional level preferred
+Scripting and programming skills (Python, terraform, PowerShell, Shell script )
+Fundamental Understanding of Computer Architecture
+Familiarity with DevOps and IT Automation tools such as Puppet and Ansible
+Experience with Agile and Kanban Processes
+Experience supporting SaaS and Cloud based software solutions.
+Minimum experience of 3 to 5 years supporting a cloud environment,
+Solid foundational understanding of IT Infrastructure services such as Networking, Storage, Compute and Database platforms
+Azure or AWS IaaS and PaaS administration experience
+Experience scripting and/ or working in a DevOps environment desired.
+Experience supporting container technologies: Kubernetes, Docker
+Strong communication skills (verbal, written, presentation, interpersonal)
+Passion and accountability for the environment you will be responsible
+
+Experience with TCP/IP network and various fundamental network services such as DNS, DHCP, SMTP, NTP, telnet, SSH, etc
+Experience in Virtualization technologies like VMWare
+
+Good understanding of Networking concepts like TCP/IP, DHCP, IP Routing and Name Resolution.
+
+
+ 1) IAM          - User, Group, Roles, Policy,AWS Cli
+ 2) VPC     - Security Group , NACL, VPN
+ 3) Ec2     - Types, Spot vs On demand, EBS, AMI,Snapshot,ALB, Auto scaling.
+ 4) RDS     - Snaphot, Encryption 
+ 5) S3      - Life cycle, Version Control, Static Website , Encryption
+ 6) Cloudwatch   - Lambda Trigger,Ec2 Custom monitoring, Application log monitoring
+ 7) Lambda       - Ec2,RDS off/on, Snapshot Schedule
+ 8) CloudTrail   - User activity monitoring
+ 9) Route53      - DNS Routing
+ 10) Cloudformation - Automation Infra via Code
+ 11) SNS                - Notification mail sent via Cloudwatch
+ 12) CloudFront         - CDN- config with S3
+ 13) Elastic BeanStalk  - Deploy Application to EBS
+
+###########################
+
+Linux Admin to AWS Cloud Engineer Roadmap
+ *****************************************
+
+    1) Support / Maintanance for AWS Services
+    2) Linux basic, LAMP support + AWS Min 13 Services
+    3) Scripting Knowledge / Python 
+              Ram & Disk Usage limit mail Trigger, 
+              File backup & Mysql DB Backup
+              Backup copy to AWS S3 Bucket
+    4) Basic working Knowledge Docker, Git, jenkins, Jira
+    5) Certification:  AWS SA
+*********************************************************
+
+
+
+Must have 2-5 years experience in Systems Engineering/DevOps.
+
+Role is required Solid experience with AWS infrastructure.
+
+Proficiency with performance tuning and memory management Experience in creating software tools to automate production systems with either of the following.
+
+Languages required : python, golang, ruby, java etc. Good understanding of networking and related protocols, with strong fundamentals.
+
+Proven experience troubleshooting problems and working with a team to resolve large scale production issues Good understanding of configuration management, monitoring and systems tools.
+
+Good understanding of Mysql, Linux and Python.
+
+Expert in TCP/IP, DNS, DHCP and similar protocols
+
+***********************************************************
+
+AWS Docker - ii) Ngnix server iii) Linux Server (Ubuntu) , Tomcat iv) AWS CLI v) AWS S3 vi) RDS (MySql Db) vii) AWS load balancer 
+viii) AWS SSM , VPC, ECS ix) Teraform x) Scripting (Yaml, bash/python/etc) Xi)Experience in Windows Server Xii) Route53/Cloudflare/etc 
+Xiii)Ansible Xiv)Git/bitbucket/bitbucket pipelines ..
+
+
+Location: Bangalore
+Exp: 8-15 years
+
+
+
+Cloud SysOps
+
+Job Description - Skills requirement -
+
+1. Hands on experience on Public Cloud Infrastructure "AWS, Azure, GCP. 
+2. Good experience in troubleshooting of AWS, Azure, GCP cloud-based solutions.
+3. Hand's on Experience with AWS - EC2, VM's, Compute engine, S3, Blog storage, Cloud storage Glacier, Lambda, CloudWatch, IAM Roles, CloudFormation, Terraforms, Azure Resource Manager
+4. Experience in Container (Docker, Kubernetes) & serverless based solutions.
+5. Hand's on experience and good knowledge of operating system: Linux, Windows server
+6. Hand's on experience on at least 1-2 monitoring tools "CloudWatch, Azure monitor, GCP monitor, Nagios, SolarWinds, NewRelic"
+7. Experience in monitoring the resources (application, platform) and integrating with monitoring system.
+8. Hand's on experience on ITSM tools "ServiceNow, Zendesk, ITSM Remedy" etc.
+9. Good Knowledge of cloud optimizations tools and services
+10. Good knowledge of Database: Oracle, MS SQL, MYSQL, DynamoDB, MongoDB
+11. Good understanding of networking: TCP/IP, IP addresses, HTTP, DNS
+12. Knowledge of Scripting and automation
+13. Good to have cloud migration
+14. Ability to work collaboratively with multi-site and multi-cultural teams.
+15. Customer oriented with good verbal and written communication skills.
+16. Experience of working in SLA driven support projects, covering stand-by/on-call service out of office hours in roasters.
+
+
+
+AWS core skills with monitoring and System administration b.AWS cloud formation, Lamda, Config and VPC c. AWS cloud watchd. AWS big data platform S3, Kinesis, Athena,
+ Gluee.GCP Google cloud general infra knowledge 2.Strong experience in Python and Linux must have 
