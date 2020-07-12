@@ -1,0 +1,10 @@
+ https://994390669905.signin.aws.amazon.com/console
+
+
+
+aceess key for boto3.
+
+Access Key ID:
+AKIAJMNQK7DYZFJSEKFQ
+Secret Access Key:
+YGn31EB2UVk/zLYQcb+TpfAIe0ywSLJZho4f/3sN
